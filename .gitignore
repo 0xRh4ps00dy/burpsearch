@@ -1,0 +1,15 @@
+# Gradle & Build
+.gradle/
+build/
+*.class
+/burp-search-community.jar
+
+# IDE & Editors
+.idea/
+*.iml
+.vscode/
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
